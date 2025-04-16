@@ -3,7 +3,7 @@
 // import { useRouter } from "next/router";
 // import axios from "axios";
 import Layout from "@/components/Layout";
-import ProductForm from "@/components/Productform";
+import ProductForm from "@/components/ProductForm";
 
 export default function NewProduct() {
   return (
